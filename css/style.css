@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+.component {
+    margin: 50px 150px;
+}
+/* Card Menu CSS*/
+.card-menu {
+    box-sizing: border-box;
+    width: 60%;
+    border: solid 3px #bbbbbb;
+    border-radius: 6px;
+}
+.card-header {
+    background: #e8e8e8;
+    border-bottom: solid 3px #bbbbbb;
+    padding: 13px;
+}
+.card-body {
+    text-align: center;
+    padding: 15px;
+}
+.blue-buttom{
+    background: #323edd;
+    color: white;
+    text-decoration: none;
+    padding: 6px;
+    border-radius: 6px;
+}
+.link {
+    text-decoration: none;
+    color: #0779e4;
+    margin-left: 20px;
+}
+p {
+    margin-bottom: 23px;
+}
+/* Simple Cards CSS*/
+.simple-card {
+    border: solid 3px;
+    width: 20%;
+    display: inline-block;
+    margin-right: 55px;
+    border-radius: 6px;
+}
+.simple-card-header {
+    padding: 13px;
+    background: #e8e8e8;
+    color: #222831;
+    border-bottom: solid 3px #898b8a;
+}
+.simple-card-body {
+    padding: 0px 13px;
+}
+.red {
+    border-color: #c70039;
+    color: #c70039;
+}
+.blue {
+    border-color: #0779e4;
+    color: #0779e4;
+}
+.gray {
+    border-color: #707070;
+    color: #707070;
+}
